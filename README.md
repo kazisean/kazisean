@@ -1,4 +1,4 @@
-![Kazi Sean](https://media.tenor.com/images/b48e487a60212ae693b305d7f3f1a8be/tenor.gif)
+![Kazi Sean](![image](https://user-images.githubusercontent.com/81493533/112820216-68363380-9053-11eb-8959-f1be2de07ab5.png)
 
 # Kazi Sean
 I'm Sean from United States, and I love space exploration. I like to Design, create open-source application, optimize servers/programs and problem solving. Oh and also I love playing video games and watching anime 💯 its the best.
