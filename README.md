@@ -1,4 +1,4 @@
-![Kazi Sean](https://steamuserimages-a.akamaihd.net/ugc/946203981945853706/CE2DC377B06BB4478B049C3BDF9F2F9BA6605DC2/)
+![Kazi Sean](https://1.bp.blogspot.com/-RXiBsorCVQk/XVHcq7OwO1I/AAAAAAAAOQw/Ket9j7uhBdkYs5qSERiwRxZwMJJfhGETgCLcBGAs/s1600/1736966924.gif)
 
 # Kazi Sean
 I'm Sean from United States, and I love space exploration. I like to Design, create open-source application, optimize servers/programs and problem solving. Oh and also I love playing video games and watching anime 💯 its the best.
