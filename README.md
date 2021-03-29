@@ -1,4 +1,4 @@
-![Kazi Sean](https://1.bp.blogspot.com/-RXiBsorCVQk/XVHcq7OwO1I/AAAAAAAAOQw/Ket9j7uhBdkYs5qSERiwRxZwMJJfhGETgCLcBGAs/s1600/1736966924.gif)
+![Kazi Sean](https://wallpapercave.com/wp/wp1865069.gif)
 
 # Kazi Sean
 I'm Sean from United States, and I love space exploration. I like to Design, create open-source application, optimize servers/programs and problem solving. Oh and also I love playing video games and watching anime 💯 its the best.
