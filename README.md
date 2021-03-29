@@ -1,4 +1,5 @@
-![Kazi Sean](https://static.tumblr.com/c8fae8e4add3253b184d06f932028b21/qfsyyrz/pgApy1o4p/tumblr_static_tumblr_static__focused_v3.gif)
+![image](https://user-images.githubusercontent.com/81493533/112882875-858ef000-909b-11eb-92fd-8803bec67fe9.png)
+
 
 # Kazi Sean
 I'm Sean from United States, and I love space exploration. I like to Design, create open-source application, optimize servers/programs and problem solving. Oh and also I love playing video games and watching anime 💯 its the best.
