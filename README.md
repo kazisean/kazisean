@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="https://data.whicdn.com/images/129777131/original.gif">
 </p>
 
