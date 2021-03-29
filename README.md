@@ -1,4 +1,6 @@
+<p align="center">
 ![image](https://data.whicdn.com/images/129777131/original.gif)
+</p>
 
 
 # Kazi Sean
