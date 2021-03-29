@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/81493533/112882875-858ef000-909b-11eb-92fd-8803bec67fe9.png)
+![image](https://data.whicdn.com/images/129777131/original.gif)
 
 
 # Kazi Sean
