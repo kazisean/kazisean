@@ -12,7 +12,6 @@ I'm Sean from United States, and I love astronomy. I like to Design, create open
 
 ## Now Playing
 <iframe
-  src="https://spotify-widget.vercel.app/current/22dkk76ywcngkozy4k54busea"
-  style="width="800"; height="100";">
-</iframe>
-
+  src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
+  style="width:100%; height:300px;"
+></iframe>
