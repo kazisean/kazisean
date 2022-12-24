@@ -10,5 +10,8 @@ I'm Sean from United States, and I love astronomy. I like to Design, create open
 * 📱 React Native
 * 💻 HTML, CSS, JS, Python
 
+## Now Playing
+
+<embed type="text/html" style="position: left;"  src="https://spotify-widget.vercel.app/current/22dkk76ywcngkozy4k54busea" width="800" height="100">
 
 
