@@ -10,8 +10,3 @@ I'm Sean from United States, and I love astronomy. I like to Design, create open
 * 📱 React Native
 * 💻 HTML, CSS, JS, Python
 
-## Now Playing
-<iframe
-  src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
-  style="width:100%; height:300px;"
-></iframe>
