@@ -10,7 +10,7 @@
   <p align="center">
     <samp>
       <b>
-        Hello
+        Hello There
       <br>
         I'm Kazi, a student, I like Astronomy and Sunsets, but Python is my fav !!
       </b>
