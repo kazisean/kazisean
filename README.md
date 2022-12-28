@@ -30,25 +30,8 @@
 <summary><samp><b>More Info</b></samp></summary>
 
 <h2></h2><br>
-
-<!-- Contact Me -->
-<p align="center">
-  <samp>
-    [<a href="https://twitter.com/kazisean">Twitter</a>]
-  </samp>
-</p>
-
 <h2></h2><br>
 
-
-<!-- Github Trophy -->
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=kazisean&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
-    </tr>
-  </table>
-</div>
 
 <!-- Github Stats -->
 <div align="center">
