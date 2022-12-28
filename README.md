@@ -12,7 +12,7 @@
       <b>
         Hello There
       <br>
-        I'm Kazi, a student, I like Astronomy and Sunsets, but Python is my fav !!
+        I'm Kazi, A Student. I like Astronomy and Sunsets, but Python is my fav !!
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
