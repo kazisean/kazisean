@@ -10,15 +10,15 @@
   <p align="center">
     <samp>
       <b>
-        Hello There
+        Hello
       <br>
-        I'm Kazi, a Student, I like Penguins and Apples, but I don't like Windows.
+        I'm Kazi, a student, I like Astronomy and Sunsets, but Python is my fav !!
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
       <br>
       <b>
-        ~ Rayhan Kafi Pratama ~
+        ~ ~ ~
       </b>
     </samp>
   </p>
@@ -34,23 +34,12 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://twitter.com/rxxxyhn">twitter</a>]
-    [<a href="https://instagram.com/rayhankafipratama">instagram</a>]
-    [<a href="https://matrix.to/#/@rxyhn:matrix.org">matrix</a>]
-    [<a href="mailto:rxyhn.dev@gmail.com">e-mail</a>]
+    [<a href="https://twitter.com/kazisean">Twitter</a>]
   </samp>
 </p>
 
 <h2></h2><br>
 
-<!-- Profile Views Badge -->
-<p align="center">
-  <samp>
-  <a href="#--------">
-    <img src="https://komarev.com/ghpvc/?username=rxyhn&label=Profile+Views&color=grey" alt="profile views" /> 
-  </a>
-  </samp>
-</p>
 
 <!-- Github Trophy -->
 <div align="center">
