@@ -24,11 +24,6 @@
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
   
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com)
-<br/>
----
 
 <br>
 
