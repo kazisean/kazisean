@@ -24,11 +24,12 @@
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
   
-<img align="left" height="200" src="https://cdn.pixabay.com/animation/2022/09/28/13/22/13-22-18-1_512.gif"  />
+
 
 <br>
 
 <details>
+<img align="left" height="200" src="https://cdn.pixabay.com/animation/2022/09/28/13/22/13-22-18-1_512.gif"  />
 <summary><samp><b>More Info</b></samp></summary>
 
 
