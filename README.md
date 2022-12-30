@@ -27,9 +27,8 @@
 
 
 <br>
-
-<details>
 <img align="left" height="200" src="https://cdn.pixabay.com/animation/2022/09/28/13/22/13-22-18-1_512.gif"  />
+<details>
 <summary><samp><b>More Info</b></samp></summary>
 
 
