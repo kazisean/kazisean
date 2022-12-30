@@ -30,9 +30,6 @@
 <details>
 <summary><samp><b>More Info</b></samp></summary>
 
-<h2></h2><br>
-<h2></h2><br>
-
 
 <!-- Github Stats -->
 <div align="center">
