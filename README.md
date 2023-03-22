@@ -12,7 +12,7 @@ Shell: zsh 5.8
 Pronouns: He/Him
 Frameworks: React
 Languages: Java, Python, HTML, CSS
-Learning: Node.js, Express, PostgreSQL, React, C++
+Learning: Node.js, Express, PostgreSQL, C++
 Hobbies: Machine Learning, Big Data !! 
 
 ```
