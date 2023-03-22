@@ -13,7 +13,7 @@ Pronouns: He/Him
 Frameworks: React
 Languages: Java, Python, HTML, CSS
 Learning: Node.js, Express, PostgreSQL, Three.js, CPP
-Hobbies: Machine Learning, Big Data, artificial intelligence and internet sorts of things 
+Hobbies: Machine Learning, Big Data things 
 Commits: 968
 Stars: 0
 ```
