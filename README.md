@@ -3,9 +3,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Deep+Learning+Developer;ML%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
+
 ```zsh
 > neofetch
 ```
+
 
 <img align="left" src="https://media.tenor.com/p0kz7NOqxTkAAAAC/kaito-typing.gif" width="320" /> 
 
