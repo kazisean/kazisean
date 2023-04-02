@@ -23,4 +23,8 @@ Learning: Node.js, Express, PostgreSQL, C++
 Hobbies: Physics, Machine Learning, Big Data !! 
 
 ```
+
+
+<center> <img src="https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif"/> </center>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=kazisean)
