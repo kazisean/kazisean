@@ -9,7 +9,7 @@
 ```
 
 
-<img align="left" src="https://media.tenor.com/p0kz7NOqxTkAAAAC/kaito-typing.gif" width="320" /> 
+<img align="left" src="https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif" width="320" /> 
 
 ```csharp
 kazi@github
@@ -25,6 +25,3 @@ Hobbies: Physics, Machine Learning, Big Data !!
 ```
 
 
-<center> <img src="https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif"/> </center>
-
-![](https://visitor-badge.glitch.me/badge?page_id=kazisean)
