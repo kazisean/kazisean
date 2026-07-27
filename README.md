@@ -24,7 +24,7 @@ kazi@github
 -------------------------
 OS: Arch Linux x86_64
 Shell: zsh 5.8
-Pronouns: He/Him
+School: nyu (cs)
 Frameworks: React
 Languages: Java, Python, HTML, CSS
 Learning: Node.js, Express, PostgreSQL, C++
