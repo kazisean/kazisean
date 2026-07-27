@@ -26,9 +26,9 @@ OS: Arch Linux x86_64
 Shell: zsh 5.8
 School: nyu (cs)
 Frameworks: React
-Languages: Java, Python, HTML, CSS
+Languages: Python, TypeScript, Java
 Learning: Node.js, Express, PostgreSQL, C++
-Hobbies: Physics, Machine Learning, Big Data !! 
+Hobbies: Machine Learning and Self Hosting !! 
 
 ```
 
