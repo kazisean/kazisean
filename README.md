@@ -28,6 +28,5 @@ School: nyu (cs)
 Frameworks: React
 Languages: Python, TypeScript, Java
 Hobbies: Machine Learning and Self Hosting !! 
-
 ```
 
