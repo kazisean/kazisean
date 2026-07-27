@@ -27,6 +27,7 @@ Shell: zsh 5.8
 School: nyu (cs)
 Frameworks: React
 Languages: Python, TypeScript, Java
+Learning: Node.js, Express, PostgreSQL, C++
 Hobbies: Machine Learning and Self Hosting !! 
 ```
 
